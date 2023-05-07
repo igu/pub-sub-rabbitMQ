@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/igu/pub-sub-rabbitMQ#readme",
   "dependencies": {
-    "amqplib": "^0.5.5"
+    "amqplib": "^0.10.3"
   }
 }
